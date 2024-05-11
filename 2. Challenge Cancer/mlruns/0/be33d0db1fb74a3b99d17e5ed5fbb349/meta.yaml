@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/skimo/Documents/Python311/Scripts/ChallengeCancer-archive-From%20Kaggle/mlruns/0/be33d0db1fb74a3b99d17e5ed5fbb349/artifacts
+end_time: 1713735726927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be33d0db1fb74a3b99d17e5ed5fbb349
+run_name: big-shoat-187
+run_uuid: be33d0db1fb74a3b99d17e5ed5fbb349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713735607383
+status: 4
+tags: []
+user_id: skimo

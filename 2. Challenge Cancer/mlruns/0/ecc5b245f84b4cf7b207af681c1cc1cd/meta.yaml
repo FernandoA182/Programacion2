@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/skimo/Documents/Python311/Scripts/ChallengeCancer-archive-From%20Kaggle/mlruns/0/ecc5b245f84b4cf7b207af681c1cc1cd/artifacts
+end_time: 1713738293453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecc5b245f84b4cf7b207af681c1cc1cd
+run_name: rumbling-pug-531
+run_uuid: ecc5b245f84b4cf7b207af681c1cc1cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713738175067
+status: 4
+tags: []
+user_id: skimo

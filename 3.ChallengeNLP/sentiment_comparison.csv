@@ -1,0 +1,26 @@
+Post Title,pysentimiento Sentiment,VADER Sentiment
+How is AMLO so cool?,"AnalyzerOutput(output=NEG, probas={NEG: 0.426, NEU: 0.346, POS: 0.228})",0.4572
+Why is AMLO so popular?,"AnalyzerOutput(output=NEG, probas={NEG: 0.837, NEU: 0.135, POS: 0.028})",0.5598
+Entonces no toda la gente ama a AMLO ?,"AnalyzerOutput(output=NEG, probas={NEG: 0.547, NEU: 0.407, POS: 0.046})",-0.296
+Mexico's half a million march against AMLO,"AnalyzerOutput(output=NEG, probas={NEG: 0.664, NEU: 0.203, POS: 0.133})",0.0
+AMLO en 60 Minutes.,"AnalyzerOutput(output=NEU, probas={NEU: 0.730, POS: 0.139, NEG: 0.131})",0.0
+What are your thoughts on Mexico's president A...,"AnalyzerOutput(output=NEU, probas={NEU: 0.544, NEG: 0.322, POS: 0.134})",0.0
+¿Por que el hate a AMLO?,"AnalyzerOutput(output=NEG, probas={NEG: 0.896, NEU: 0.092, POS: 0.012})",-0.5719
+Is true that AMLO has made no plans to track a...,"AnalyzerOutput(output=NEG, probas={NEG: 0.749, NEU: 0.169, POS: 0.082})",0.1531
+Como fue realmente el gobierno de AMLO,"AnalyzerOutput(output=NEG, probas={NEG: 0.693, NEU: 0.268, POS: 0.040})",0.0
+What do you think of AMLO saying that he wo...,"AnalyzerOutput(output=NEG, probas={NEG: 0.513, NEU: 0.394, POS: 0.093})",0.0
+"In the USA, Amlo is constantly described as a...","AnalyzerOutput(output=NEG, probas={NEG: 0.566, NEU: 0.331, POS: 0.104})",0.0
+Do Mexicans actually like AMLO? Because fro...,"AnalyzerOutput(output=NEG, probas={NEG: 0.507, NEU: 0.396, POS: 0.097})",0.3612
+Amlo es el anticristo,"AnalyzerOutput(output=NEG, probas={NEG: 0.792, NEU: 0.145, POS: 0.063})",0.0
+"Mexican Redditors, is AMLO a left-wing or a ri...","AnalyzerOutput(output=NEG, probas={NEG: 0.691, NEU: 0.258, POS: 0.050})",0.0
+Amlo tiene otros datos,"AnalyzerOutput(output=NEG, probas={NEG: 0.519, NEU: 0.396, POS: 0.084})",0.0
+¿Este sexenio fue el peor de todos con el p...,"AnalyzerOutput(output=NEG, probas={NEG: 0.833, NEU: 0.152, POS: 0.015})",0.0
+Mexico election: leftist Amlo set for histo...,"AnalyzerOutput(output=NEU, probas={NEU: 0.457, NEG: 0.432, POS: 0.111})",0.0
+"I knew AMLO was popular, but not this popular.","AnalyzerOutput(output=NEG, probas={NEG: 0.522, NEU: 0.345, POS: 0.133})",-0.3813
+AMLO rompe relaciones con Ecuador por la vio...,"AnalyzerOutput(output=NEG, probas={NEG: 0.624, NEU: 0.329, POS: 0.047})",0.0
+What's your opinion on AMLO?,"AnalyzerOutput(output=NEU, probas={NEU: 0.666, NEG: 0.220, POS: 0.114})",0.0
+Pregunta incomoda a AMLO .,"AnalyzerOutput(output=NEG, probas={NEG: 0.832, NEU: 0.154, POS: 0.014})",0.0
+Why do you guys hate Amlo Manuel Lopez Obrador?,"AnalyzerOutput(output=NEG, probas={NEG: 0.874, NEU: 0.106, POS: 0.020})",-0.5719
+How is AMLO so cool?,"AnalyzerOutput(output=NEG, probas={NEG: 0.426, NEU: 0.346, POS: 0.228})",0.4572
+What's going on with how Mexican redditors went...,"AnalyzerOutput(output=NEG, probas={NEG: 0.834, NEU: 0.146, POS: 0.020})",0.0
+Evil amlo,"AnalyzerOutput(output=NEG, probas={NEG: 0.385, NEU: 0.378, POS: 0.237})",-0.6597

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/skimo/Documents/Python311/Scripts/ChallengeCancer-archive-From%20Kaggle/mlruns/0/d5bbda8875c0455f86503e464eef0f37/artifacts
+end_time: 1713736026188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5bbda8875c0455f86503e464eef0f37
+run_name: serious-croc-467
+run_uuid: d5bbda8875c0455f86503e464eef0f37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713735902995
+status: 4
+tags: []
+user_id: skimo

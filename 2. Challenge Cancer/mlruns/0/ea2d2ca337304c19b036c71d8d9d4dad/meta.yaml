@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/skimo/Documents/Python311/Scripts/ChallengeCancer-archive-From%20Kaggle/mlruns/0/ea2d2ca337304c19b036c71d8d9d4dad/artifacts
+end_time: 1713737346232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea2d2ca337304c19b036c71d8d9d4dad
+run_name: luminous-shoat-500
+run_uuid: ea2d2ca337304c19b036c71d8d9d4dad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713737226474
+status: 3
+tags: []
+user_id: skimo

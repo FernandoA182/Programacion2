@@ -1,0 +1,20 @@
+artifact_path: model_Multi-layer_Perceptron_original
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.11.3
+model_size_bytes: 83729
+model_uuid: 491cbd2bed2840f3bea4c86dd5bc2316
+run_id: e5c2eecc981045318d8266d5c0ada649
+utc_time_created: '2024-04-21 22:12:12.440951'
